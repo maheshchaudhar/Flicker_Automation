@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite">
+	<parameter name = "a" value="10"/>
+	<parameter name = "b" value="10"/>
+
+	<test name="Test Basics 1">
+		<classes>
+			<class name="base.framwork.restassured.framwork.SampleRestAssuredTests">
+			</class>
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
