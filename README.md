@@ -10,17 +10,17 @@ Autmation Framwork Architecture,
 Steps To Run Mobile Automation
 1. Start appium server, make sure you have setup ready for ios simulators.
 2. Update application properties file, details for all parameters are provided as below.
-  #Appium
+  Appium
     1. serverURL=http://localhost:4723/wd/hub
 
-  #Platform Sepecific
+  Platform Sepecific
     1. platform=iOS [Platform on which you want to run automation]
     2. platformVersion =15.5
     automationName =XCUITest
     app =/Users/maheshchaudhar/Desktop/Personal/MyFlickr.app
     deviceName=iPhone 8
 
-  #Timeouts
+  Timeouts
     implicitWait=20
     defaultTimeout=20
 
