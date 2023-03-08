@@ -45,3 +45,9 @@ Improvements For Framwork [Needs to implemented when time permits]
 2. We can enable video recording for execution, this will help to debug failures easily. 
 4. We can add Visual validation for mobile application pages Image plugin which is recently added in Appium 2.0.
 5. Logging and documentation needs to improved. 
+
+
+Tools and Versions Used
+1. Appium 2.0
+2. Xcode  
+3. ADB, Android API level 30
