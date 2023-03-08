@@ -6,7 +6,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>base.framwork</groupId>
-	<artifactId>restassured.framwork</artifactId>
+	<artifactId>Filckr.Automation</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<name>restassured.framwork</name>
