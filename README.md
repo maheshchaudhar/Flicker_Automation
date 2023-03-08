@@ -10,7 +10,9 @@ Autmation Framwork Architecture,
 Steps To Run Mobile Automation
 1. Start appium server, make sure you have setup ready for ios simulators.
 2. Update application properties file, details for all parameters are provided as below.
-3. 
+3. Build maven project with goal "mvn test"
+4. Test will get executed and testng reports will be available in "test-output"
+5. Allure report : "mvn allure:serve"
 
 Application Properties,
       
