@@ -22,6 +22,20 @@ Application Properties,
       * deviceName=iPhone 8 [Device name]
       * implicitWait=20   [Implicit Wait in Seconds]
       * defaultTimeout=20   [Explicit Wait in Seconds]
+      
+      **Example For iOS
+      platform=iOS
+      platformVersion =15.5
+      automationName =XCUITest
+      app =/Users/maheshchaudhar/Desktop/Personal/MyFlickr.app
+      deviceName=iPhone 8
+
+      **Example For Android
+      platform=android
+      app =/Users/maheshchaudhar/Desktop/Personal/app-debug.apk
+      deviceName=emulator-5554
+      appPackage=com.example.imagegallery
+      automationName=UiAutomator2
 
 
 Improvements For Framwork [Needs to implemented when time permits] 
