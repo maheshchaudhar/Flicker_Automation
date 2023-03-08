@@ -12,13 +12,10 @@ Steps To Run Mobile Automation
 2. Update application properties file, details for all parameters are provided as below.
 
 Appium
-
-serverURL=http://localhost:4723/wd/hub
-
+  serverURL=http://localhost:4723/wd/hub
 Platform Sepecific
-  
-    1. platform=iOS [Platform on which you want to run automation]
-    2. platformVersion =15.5
+  platform=iOS [Platform on which you want to run automation]
+  platformVersion =15.5
     automationName =XCUITest
     app =/Users/maheshchaudhar/Desktop/Personal/MyFlickr.app
     deviceName=iPhone 8
